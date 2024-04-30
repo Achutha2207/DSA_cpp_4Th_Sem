@@ -187,7 +187,6 @@ int main()
 				return false;
 			}
 		}
-	};
 
 	bool isfull()
 	{
@@ -231,5 +230,5 @@ int pop(){
 		else{
 			return array[--top];}};
 
-
+}
 
